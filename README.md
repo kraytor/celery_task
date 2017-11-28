@@ -4,7 +4,9 @@ Simple rest api using flask sqlalchemy celery
 to start using you should install:
   pip install -r requirements.txt
   install RabbitMQ (in Ubuntu: sudo apt install rabbitmq-server)
-  
+
+clone this git
+
 starting use:
   check that rabbitmq working (in Ubuntu: sudo service rabbitmq-server status)
   start webserver: python run.py
